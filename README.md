@@ -1,4 +1,4 @@
-# 📊 F&B Strategic COGS & Inventory Control Dashboard1
+# 📊 F&B Strategic COGS & Inventory Control Dashboard
 
 ## 📝 Project Overview
 This project features a comprehensive management reporting system designed for the F&B industry to monitor **Cost of Goods Sold (COGS)** and inventory dynamics. The primary goal is to provide stakeholders with actionable insights into gross margins, operational waste, and inventory efficiency to protect profitability.
